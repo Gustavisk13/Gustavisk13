@@ -38,6 +38,11 @@
 
 </div>
 
+<h2 align="left">Recently played:</h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gustavo_boss&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gustavo_boss&redirect=true)
+
+
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/gustavo-luiz-33404b15a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -45,5 +50,4 @@
 <a href="https://twitter.com/gustafdixon" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/gustavo_boss" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gustavo_boss&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gustavo_boss&redirect=true)
 
