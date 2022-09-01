@@ -30,7 +30,9 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>&nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>&nbsp;<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> &nbsp; <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavisk13&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="gustavisk13" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gustavisk13&show_icons=true&theme=radical" alt="gustavisk13" /></p>
+<a href="https://github.com/gustavisk13">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavisk13&show_icons=true&theme=radical" alt="gustavisk13" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavisk13&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="gustavisk13" />
+
 </div>
 
