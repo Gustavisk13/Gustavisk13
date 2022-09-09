@@ -19,8 +19,8 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/gustafdixon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gustafdixon" height="30" width="55" /></a>
-<a href="https://linkedin.com/in/gustavo luiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo luiz" height="30" width="55" /></a>
-<a href="https://stackoverflow.com/users/gustavo-luiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gustavo-luiz" height="30" width="55" /></a>
+<a href="https://www.linkedin.com/in/gustavo-luiz-33404b15a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo luiz" height="30" width="55" /></a>
+<a href="https://stackoverflow.com/users/18920784/gustavo-luiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gustavo-luiz" height="30" width="55" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
