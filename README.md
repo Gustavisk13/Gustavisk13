@@ -34,7 +34,7 @@
 <a href="https://github.com/gustavisk13">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavisk13&show_icons=true&theme=radical" alt="gustavisk13" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavisk13&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact" alt="gustavisk13" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavisk13&theme=radical&show_icons=true&show_icons=true&locale=en&layout=compact&hide=javascript" alt="gustavisk13" />
 
 </div>
 
