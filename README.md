@@ -40,7 +40,7 @@
 
 <h2 align="left">Recently played:</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gustavo_boss&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gustavo_boss&redirect=true)
+[![spotify-github-profile]([https://spotify-github-profile.vercel.app](https://spotify-github-profile.kittinanx.com)/api/view?uid=gustavo_boss&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gustavo_boss&redirect=true)
 
 
 <i>Follow me around the web:</i><br>
