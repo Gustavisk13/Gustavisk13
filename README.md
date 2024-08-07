@@ -25,9 +25,9 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="55" height="55"/>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="55" height="55"/> </a>&nbsp;<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="55" height="55"/> </a> &nbsp; <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/> </a> </p>
+
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="55" height="55"/> </a>&nbsp;<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="55" height="55"/> </a> &nbsp;
+</p>
 
 <h2 align="left">Stats:</h2>
 <div>
