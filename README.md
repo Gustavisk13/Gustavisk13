@@ -3,16 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavisk13&label=Profile%20views&color=0e75b6&style=flat" alt="gustavisk13" /> </p>
 
-
-- 🔭 I’m currently working on [My team official website!](https://github.com/Gustavisk13/guinaweb)
-
-- 🌱 I’m currently learning **Mainly Flutter, Spring and Laravel frameworks**
+- 🌱 I’m currently learning **Mainly Flutter and Laravel frameworks**
 
 - 👯 I’m looking to collaborate on **Any cool project that helps people!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gustavisk13?tab=repositories](https://github.com/Gustavisk13?tab=repositories)
 
-- 💬 Ask me about **Java or Flutter.**
+- 💬 Ask me about **Flutter.**
 
 - 📫 How to reach me **gustavolzss12@gmail.com**
 
